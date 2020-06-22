@@ -1,0 +1,10 @@
+webapp\ica02\model\Address_.class
+webapp\ica02\model\Contact_.class
+Main.class
+webapp\ica02\model\Client_.class
+webapp\ica02\controller\ClientServlet.class
+webapp\ica02\model\Address.class
+webapp\ica02\model\State_.class
+webapp\ica02\model\State.class
+webapp\ica02\model\Client.class
+webapp\ica02\model\Contact.class
